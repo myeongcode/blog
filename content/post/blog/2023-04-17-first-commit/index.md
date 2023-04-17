@@ -9,10 +9,10 @@ tags = [
 categories = [
     "Blog",
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 +++
 
 <!--more-->
 
 ## 반가워요!
+
+앞으로 다시 포스팅 열심히하기 ✍🏻

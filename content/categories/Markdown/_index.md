@@ -1,9 +1,9 @@
 ---
-title: "Blog"
+title: "Markdown"
 description: "블로그에 관련된 내용을 담는 공간 💫"
-slug: "blog"
-image: "github-icon.png"
+slug: "markdown"
+image: "markdown.png"
 style:
-  background: "#2a9d8f"
+  background: "#05A500"
   color: "#fff"
 ---
