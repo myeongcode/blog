@@ -32,7 +32,7 @@ params:
   sidebar:
     compact: false
     emoji: 👀
-    subtitle: Insanity is doing the same thing over and over again and expecting different results
+    subtitle: 나에게 특별한 재능이란 없다. 그저 열정적인 호기심만 있을 뿐
     avatar:
       enabled: true
       local: true
