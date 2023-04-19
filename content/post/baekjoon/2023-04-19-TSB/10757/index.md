@@ -79,7 +79,7 @@ let num2 = BigInt(result[1]);
 
 ^오^
 
-다시 두 수의 덧셈을 구하여 출력해보는 걸로 하자
+다시 두 수의 덧셈을 구하여 출력해보는 걸로 하고, 백준의 입력을 받을 수 있게끔 읽는 파일을 `"/dev/stdin"`으로 바꿔주자
 
 ```javascript
 /*
@@ -89,7 +89,7 @@ let num2 = BigInt(result[1]);
 */
 
 const fs = require("fs");
-let input = fs.readFileSync("./input.txt").toString();
+let input = fs.readFileSync("/dev/stdin").toString();
 let result = input.split(" ").filter((num) => num !== "");
 let num1 = BigInt(result[0]);
 let num2 = BigInt(result[1]);
@@ -103,5 +103,7 @@ function solution(param1, param2) {
 ```
 
 ![image](https://user-images.githubusercontent.com/67165016/233051908-b5a86586-9504-4bab-8263-009383641d21.png)
+
+![image](https://user-images.githubusercontent.com/67165016/233053742-c3c773d3-3ee6-4c42-9eda-5ec3fe59220a.png)
 
 > 해결완료 ✅
