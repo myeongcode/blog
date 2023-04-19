@@ -1,7 +1,7 @@
 +++
 author = "우명규"
 title = "[Flutter] Flutter란? Flutter가 무엇일까?"
-date = "2023-04-18"
+date = "2023-04-17"
 description = "Flutter를 사용하는 목적과 특장점"
 tags = [
     "dart",

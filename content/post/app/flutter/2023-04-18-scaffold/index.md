@@ -1,7 +1,7 @@
 +++
 author = "우명규"
 title = "[Flutter] Scaffold Widget"
-date = "2023-04-17"
+date = "2023-04-18"
 description = "Scaffold의 개념과 역할 그리고 사용법"
 tags = [
     "dart",
