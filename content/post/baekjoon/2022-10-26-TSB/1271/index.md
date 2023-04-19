@@ -7,7 +7,7 @@ tags = [
     "python",
 ]
 categories = [
-    "Baekjoon",
+    "Algorithm",
 ]
 image = "baekjoon.png"
 +++

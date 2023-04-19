@@ -7,7 +7,7 @@ tags = [
     "javascript",
 ]
 categories = [
-    "Baekjoon",
+    "Algorithm",
 ]
 image = 'baekjoon.png'
 +++
