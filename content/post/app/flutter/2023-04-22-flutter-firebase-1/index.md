@@ -1,7 +1,7 @@
 +++
 author = "우명규"
 title = "[Flutter] Flutter와 Firebase 연동하기 (Android)"
-date = "2023-04-21"
+date = "2023-04-22"
 description = "Firebase의 Auth서버를 Flutter와 연동해봅시다."
 tags = [
     "dart",

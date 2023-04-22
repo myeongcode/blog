@@ -1,7 +1,7 @@
 +++
 author = "우명규"
 title = "[Flutter] sdk version 오류"
-date = "2023-04-21"
+date = "2023-04-22"
 description = "minSdkVersion 16 cannot be smaller than version 19 declared in library"
 tags = [
     "dart",
