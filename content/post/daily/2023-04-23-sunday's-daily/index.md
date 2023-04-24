@@ -1,7 +1,7 @@
 +++
 author = "우명규"
 title = "[Daily] 4월 4째주 Sunday ☀️"
-date = "2023-04-22"
+date = "2023-04-23"
 description = "일요일 Daily Post"
 tags = [
     "sunday",
