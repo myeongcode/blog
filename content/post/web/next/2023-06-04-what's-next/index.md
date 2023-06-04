@@ -1,7 +1,7 @@
 +++
 author = "우명규"
 title = "[NEXT] NEXT.js가 무엇일까?"
-date = "2023-06-04"
+date = "2023-06-05"
 description = "NEXT.js에 대해서 알아보자"
 tags = [
     "next",
