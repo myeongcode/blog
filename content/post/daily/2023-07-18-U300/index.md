@@ -1,8 +1,8 @@
 +++
 author = "우명규"
-title = "U300 창업공모전 발표"
+title = "[Join IT] U300 창업공모전 발표"
 date = "2023-07-18"
-description = "[Join IT] U300 성장트랙에 서류합격하여 발표를 위해 경북대학교에 다녀왔습니다!"
+description = "U300 성장트랙에 서류합격하여 발표를 위해 경북대학교에 다녀왔습니다!"
 tags = [
     "joinIt",
 ]
