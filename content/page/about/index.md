@@ -15,11 +15,16 @@ menu:
       icon: user
 ---
 
-#### Contact
+## Information
+
+### Contact
 
 Phone. 010
 
-#### Skill
+### Skills
+
+> - React
+> - Typesciprt
 
 ---
 
