@@ -6,7 +6,7 @@ paginate: 5
 module:
   hugoVersion:
     extended: true
-    min: "0.87.0"
+    min: '0.87.0'
   imports:
     - path: github.com/CaiJimmy/hugo-theme-stack/v3
 
@@ -20,6 +20,13 @@ params:
   featuredImageField: image
   rssFullContent: true
   favicon:
+
+  math:
+    enable: true
+    # MathJax configuration options
+    mathjax:
+      inline: ['$', '$']
+      display: ['$$', '$$']
 
   footer:
     since: 2023
